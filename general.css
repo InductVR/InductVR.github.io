@@ -10,7 +10,9 @@ http://www.andreagalanti.it
 
 /*Video background */
 
-
+.introText{
+	font-size: 110%;
+}
 
 body, html {
 	height: 100%;
@@ -78,9 +80,9 @@ margin: auto;
 
 .h1_home{
     color: white;
-	font-size: 80px;
-	font-family: Futura Arial, Helvetica, sans-serif;
-	font-weight: 100;
+	font-size: 100px;
+    font-family: font-family: Futura, "Trebuchet MS", Arial, sans-serif;	
+    font-weight: 300;
 	letter-spacing: 6px;
 }
 .h1_home span {
