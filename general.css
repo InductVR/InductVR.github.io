@@ -1117,6 +1117,18 @@ color: #ECEBEB;
 	
 }
 @media screen and (max-width: 600px) {
+
+		
+	
+.h1_home{
+    color: white;
+	font-size: 50px;
+    font-family: font-family: Futura, "Trebuchet MS", Arial, sans-serif;	
+    font-weight: 300;
+	letter-spacing: 6px;
+}
+
+
 	.morph-button-modal.open .morph-content {
 		top: 0% !important;
 		left: 0% !important;
