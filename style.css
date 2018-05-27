@@ -2249,7 +2249,7 @@ select[multiple].navbar-form .btn {
   -webkit-font-smoothing: subpixel-antialiased;
 }
 .navbar-default {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.4);
 }
 .navbar-default .navbar-brand {	
   color: #34495e;
