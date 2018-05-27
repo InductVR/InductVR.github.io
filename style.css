@@ -2059,7 +2059,7 @@ fieldset[disabled] .input-group-btn .btn-default.active {
   border-radius: 6px;
 }
 select.navbar-input {
-  height: 35px;
+  height: 25px;
   line-height: 35px;
 }
 textarea.navbar-input,
@@ -2073,8 +2073,8 @@ select[multiple].navbar-input {
   margin-bottom: 0;
   padding-right: 19px;
   padding-left: 19px;
-  padding-top: 9px;
-  padding-bottom: 9px;
+  padding-top: 6px;
+  padding-bottom: 6px;
 }
 @media (max-width: 767px) {
   .navbar-form .form-group {
@@ -2096,7 +2096,7 @@ select[multiple].navbar-input {
 .navbar-form .form-control,
 .navbar-form .input-group-addon,
 .navbar-form .btn {
-  height: 35px;
+  height: 25px;
   padding: 5px 10px;
   font-size: 13px;
   line-height: 1.4;
@@ -2183,8 +2183,8 @@ select[multiple].navbar-form .btn {
   color: #34495e;
   margin-top: 0;
   margin-bottom: 0;
-  padding-top: 15px;
-  padding-bottom: 15px;
+  padding-top: 12px;
+  padding-bottom: 12px;
 }
 @media (min-width: 768px) {
   .navbar-text {
@@ -2240,19 +2240,18 @@ select[multiple].navbar-form .btn {
 .navbar-new {
   background-color: #e74c3c;
   font-size: 12px;
-  height: 18px;
-  line-height: 17px;
+  height: 15px;
+  line-height: 15px;
   margin: -6px -10px;
-  min-width: 18px;
+  min-width: 15px;
   padding: 0 1px;
   width: auto;
   -webkit-font-smoothing: subpixel-antialiased;
 }
 .navbar-default {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.5);
 }
-.navbar-default .navbar-brand {
-	
+.navbar-default .navbar-brand {	
   color: #34495e;
 }
 .navbar-default .navbar-brand:hover,
