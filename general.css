@@ -52,7 +52,7 @@ http://www.andreagalanti.it
 	   
 		#howitworks {
 		margin-left: 10px;
-		margin-bottom: -50px;
+		margin-bottom: -40px;
 
 		}
 		#howitworks h1{
@@ -65,9 +65,11 @@ http://www.andreagalanti.it
 		font-size: 3em;
 		}
 
-
 }
 
+  a {
+    text-decoration: none !important;
+}
 
 .intro-header {
 			height: 100%;
