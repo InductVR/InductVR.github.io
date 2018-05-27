@@ -29,12 +29,30 @@ top: 0px;
 
 
 /* All Mobile Sizes (devices and browser) */
-	@media only screen and (max-width: 767px) {
-.videoBg {
-    -ms-transform: translateX(-30%) translateY(0%);
-    -moz-transform: translateX(-30%) translateY(0%);
-    -webkit-transform: translateX(-30%) translateY(0%);
-    transform: translateX(-30%) translateY(0%);
+	@media only screen and (max-width: 767px) 
+	{
+		.videoBg {
+	    -ms-transform: translateX(-30%) translateY(0%);
+	    -moz-transform: translateX(-30%) translateY(0%);
+	    -webkit-transform: translateX(-30%) translateY(0%);
+	    transform: translateX(-30%) translateY(0%);
+	    }
+	    
+	    .h3_home{
+	    text-align: left;
+		font-weight: 100;
+	    }
+	    
+	    .abcen1{
+	    position: absolute;
+	    top: 30%;
+	    margin-left: 20px;
+	    }
+	    
+	    h1, .h1 {
+				font-size: 10px;
+		}
+
 }
 
 
