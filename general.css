@@ -49,9 +49,22 @@ http://www.andreagalanti.it
 	    margin-left: 20px;
 	    }
 	    
-	    h1, .h1 {
-				font-size: 10px;
+	   
+		#howitworks {
+		margin-left: 10px;
+		margin-bottom: -50px;
+
 		}
+		#howitworks h1{
+		font-size: 2.3em;		
+		}
+		.content-section-c h2{
+		font-size: 3em;
+		}
+		.content-section-a h2{
+		font-size: 3em;
+		}
+
 
 }
 
