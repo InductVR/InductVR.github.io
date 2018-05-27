@@ -41,7 +41,7 @@ http://www.andreagalanti.it
 	    .h3_home{
 	    text-align: left;
 		font-weight: 300;
-		font-size: 15px;
+		font-size: 17px;
 	    }
 	    
 	    .abcen1{
@@ -50,7 +50,6 @@ http://www.andreagalanti.it
 	    margin-left: 20px;
 	    }
 	    
-	   
 		#howitworks {
 		margin-left: 10px;
 		margin-bottom: -40px;
@@ -65,11 +64,19 @@ http://www.andreagalanti.it
 		.content-section-a h2{
 		font-size: 3em;
 		}
-
+		#introtitle .btn {
+	    padding: 10px 23px;
+	    margin: 2px;
+	    font-size: 10px;		
+	    }
 }
 
-  a {
-    text-decoration: none !important;
+#introtitle .btn {
+    margin: 5px;		
+    }
+
+a {
+text-decoration: none !important;
 }
 
 .intro-header {
